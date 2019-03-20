@@ -1,0 +1,3 @@
+# Java_Stratego_Game
+This is a strategic game called "Funeral". They say she played hot-tempered port hawkers. It's really exciting. The playing field is a square 7 × 7 or 8 × 8 grids. Players should use pens in two different colors. The initiator paints one of any grids, the other does the same. If the painted grilles fill the row, column or diagonal line (edge to edge), you get as many points as the grids count the colored section (minimum 2 grids). It may happen that coloring one box "closes" even a few point-long sections, then each segment counts separately, adds up and counts all points.
+![alt text](https://i.ibb.co/SJ44Y81/Przechwytywanie.png)
